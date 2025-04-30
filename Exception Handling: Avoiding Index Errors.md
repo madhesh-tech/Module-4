@@ -12,7 +12,16 @@ To write a Python program that handles an **IndexError** when trying to access a
 
 ## 🧾 Program
 Add code here
+```
+try:
+    L=('laptop','mobile','pen')
+    print(L(4))
+except:
+    print("check index range")
+```
 
 ## Output
+![image](https://github.com/user-attachments/assets/77c73426-db01-4622-87e1-8489fc6e54c0)
 
 ## Result
+The expected output is achieved.
