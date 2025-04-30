@@ -13,7 +13,18 @@ To write a Python program that calculates the **area of a circle** based on the 
 ## 🧾 Program
 
 Add code here
+```
+class saveetha:
+    def slot(self,r):
+        radius=3.14159*r*r
+        return f"Area of circle: {radius:.2f}"
+r=eval(input())
+circle=saveetha()
+print(circle.slot(r))
+```
 
 ## Output
+![image](https://github.com/user-attachments/assets/3ecadcf7-3d90-401c-a36d-58719690399c)
 
 ## Result
+The expected output is achieved.
