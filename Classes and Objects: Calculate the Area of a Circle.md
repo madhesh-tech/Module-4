@@ -24,7 +24,7 @@ print(circle.slot(r))
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/3ecadcf7-3d90-401c-a36d-58719690399c)
+![image](https://github.com/user-attachments/assets/e9313ae9-0d77-45ef-94ec-7f3202661e96)
 
 ## Result
 The expected output is achieved.
